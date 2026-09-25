@@ -1,0 +1,7 @@
+dataset,forget_class,n_forget,n_full,repeat,ssd_forget_s,ssd_full_s,ssd_modify_s,ssd_cold_s,ssd_amortised_s,unact_config,unact_s,speedup_vs_cold,speedup_vs_amortised,eval_device,git_commit
+cifar10,3,5000,50000,0,6.080,20.227,0.047,26.354,6.126,p75.0_g0.01_k1,2.631,10.02,2.33,NVIDIA L4,136ed1b
+cifar10,3,5000,50000,1,1.898,18.408,0.013,20.319,1.911,p75.0_g0.01_k1,0.579,35.07,3.30,NVIDIA L4,136ed1b
+cifar10,3,5000,50000,2,1.897,18.566,0.013,20.476,1.910,p75.0_g0.01_k1,0.575,35.59,3.32,NVIDIA L4,136ed1b
+cifar20,3,2500,50000,0,5.349,21.352,0.037,26.738,5.386,p75.0_g0.1_k1,2.444,10.94,2.20,NVIDIA L4,136ed1b
+cifar20,3,2500,50000,1,1.053,23.117,0.013,24.183,1.065,p75.0_g0.1_k1,0.367,65.92,2.90,NVIDIA L4,136ed1b
+cifar20,3,2500,50000,2,1.197,27.114,0.013,28.323,1.209,p75.0_g0.1_k1,0.389,72.82,3.11,NVIDIA L4,136ed1b

@@ -1,0 +1,10 @@
+# Experiments (tested: Python 3.14, torch 2.11.0+cu128, torchvision 0.26.0,
+# numpy 2.4, scikit-learn 1.9)
+torch>=2.4
+torchvision>=0.19
+numpy
+scikit-learn
+
+# Tables and figures, paper/ (tested: pandas 2.2, matplotlib 3.9)
+pandas
+matplotlib
